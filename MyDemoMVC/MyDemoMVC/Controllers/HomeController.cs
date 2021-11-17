@@ -9,25 +9,38 @@ using System.Threading.Tasks;
 
 namespace MyDemoMVC.Controllers
 {
-    [Route("")]
-    [Route("gestao-clientes")]
     public class HomeController : Controller
     {
-        [Route("")]
-        [Route("pagina-inicial")]
+
         public IActionResult Index()
         {
-            return View();
+            var filme = new Filme {
+                Titulo = "Oi",
+                DataLancamento = DateTime.Now,
+                Genero = null,
+                Avaliacao = 10,
+                Valor = 20000
+            };
+            return RedirectToAction("Privacy", filme);
+
+            //return View();
         }
-        [Route("privacidade")]
-        [Route("politica-de-privacidade")]
-        public IActionResult Privacy()
+ 
+        public IActionResult Privacy(Filme filme)
         {
+            if (ModelState.IsValid)
+            {
+
+            }
+
+            foreach (var erro in ModelState.Values.SelectMany(m => m.Errors))
+            {
+                Console.WriteLine(erro.ErrorMessage);
+            }
             return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        [Route("Error")]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
