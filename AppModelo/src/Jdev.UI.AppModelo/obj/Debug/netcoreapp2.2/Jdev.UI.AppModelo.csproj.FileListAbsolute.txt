@@ -30,3 +30,4 @@ C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\bin\Debug\netcoreapp2.2\libman.json
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\bin\Debug\netcoreapp2.2\bundleconfig.json
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Areas\Produtos\Views\Cadastro\Index.cshtml.g.cs
