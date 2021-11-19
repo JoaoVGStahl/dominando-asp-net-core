@@ -12,7 +12,7 @@ namespace MyDemoMVC.ViewComponents
         {
             ItensCarrinho = 3;
         }
-        public async Task<IViewComponentResult> InvokeSync()
+        public async Task<IViewComponentResult> InvokeAsync()
         {
             return View(ItensCarrinho);
         }
