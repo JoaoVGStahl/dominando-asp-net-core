@@ -16,3 +16,16 @@ C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.dll
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.pdb
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.genruntimeconfig.cache
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\bin\Debug\netcoreapp2.2\Jdev.UI.AppModelo.Views.dll
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\bin\Debug\netcoreapp2.2\Jdev.UI.AppModelo.Views.pdb
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.TagHelpers.input.cache
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.TagHelpers.output.cache
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.RazorCoreGenerate.cache
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.RazorTargetAssemblyInfo.cs
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.Views.pdb
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.csproj.CopyComplete
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\bin\Debug\netcoreapp2.2\libman.json
