@@ -4,10 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Jdev.UI.AppModelo.Areas.Produtos.Controllers
+namespace Jdev.UI.AppModelo.Modulos.Vendas.Controllers
 {
-    [Area("Produtos")]
-    public class CadastroController : Controller
+    [Area("Vendas")]
+    public class PedidosController : Controller
     {
         public IActionResult Index()
         {

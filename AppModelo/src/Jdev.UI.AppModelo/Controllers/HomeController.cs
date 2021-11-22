@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Jdev.UI.AppModelo.Data;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,8 +8,17 @@ namespace Jdev.UI.AppModelo.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        private readonly IPedidoRepository _pedidoRepository;
+
+        public HomeController(IPedidoRepository pedidoRepository)
         {
+            _pedidoRepository = pedidoRepository;
+        }
+
+        public IActionResult Index(/*[FromServices] IPedidoRepository _pedidoRepository*/)
+        {
+            var pedido = _pedidoRepository.ObterPedido();
+
             return View();
         }
     }

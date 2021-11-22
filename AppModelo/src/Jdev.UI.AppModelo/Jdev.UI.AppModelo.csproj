@@ -23,9 +23,17 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Produtos\Data\" />
-    <Folder Include="Areas\Produtos\Models\" />
-    <Folder Include="Models\" />
+    <Folder Include="Modulos\Vendas\Data\" />
+    <Folder Include="Modulos\Vendas\Models\" />
+    <Folder Include="Modulos\Produtos\Data\" />
+    <Folder Include="Modulos\Produtos\Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Modulos\Produtos\Views\Cadastro\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

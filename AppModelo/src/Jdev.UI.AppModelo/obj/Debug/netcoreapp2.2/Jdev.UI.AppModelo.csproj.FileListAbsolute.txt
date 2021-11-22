@@ -5,7 +5,6 @@ C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\bin\Debug\netcoreapp2.2\Jdev.UI.AppModelo.runtimeconfig.dev.json
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\bin\Debug\netcoreapp2.2\Jdev.UI.AppModelo.dll
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\bin\Debug\netcoreapp2.2\Jdev.UI.AppModelo.pdb
-C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.csproj.AssemblyReference.cache
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.AssemblyInfoInputs.cache
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.AssemblyInfo.cs
@@ -30,4 +29,9 @@ C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\bin\Debug\netcoreapp2.2\libman.json
 C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\bin\Debug\netcoreapp2.2\bundleconfig.json
-C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Areas\Produtos\Views\Cadastro\Index.cshtml.g.cs
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Modulos\Produtos\Views\Cadastro\Busca.cshtml.g.cs
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Modulos\Produtos\Views\Cadastro\Index.cshtml.g.cs
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Modulos\Vendas\Views\Pedidos\Index.cshtml.g.cs
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Modulos\Produtos\Views\_ViewStart.cshtml.g.cs
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Razor\Modulos\Vendas\Views\_ViewStart.cshtml.g.cs
+C:\dev\VisualStudio\ASPNET\dominando-aspnet-core\AppModelo\src\Jdev.UI.AppModelo\obj\Debug\netcoreapp2.2\Jdev.UI.AppModelo.csproj.AssemblyReference.cache
