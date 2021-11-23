@@ -1,13 +1,11 @@
-﻿using Jdev.UI.AppModelo.Data;
+﻿using DevIO.UI.Site.Servicos;
+using Jdev.UI.AppModelo.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Razor;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Jdev.UI.AppModelo
 {
@@ -15,6 +13,13 @@ namespace Jdev.UI.AppModelo
     {
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
+        public IConfiguration Configuration { get; }
+
+        public Startup(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
+        
         public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<RazorViewEngineOptions>(options =>
@@ -27,9 +32,19 @@ namespace Jdev.UI.AppModelo
             });
 
 
+            services.AddDbContext<MeuDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("MeuDbContext")));
+
             services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_2);
 
             services.AddTransient<IPedidoRepository, PedidoRepository>();
+
+            services.AddTransient<IOperacaoTransient, Operacao>();
+
+            services.AddScoped<IOperacaoScoped, Operacao>();
+
+            services.AddSingleton<IOperacaoSingleton, Operacao>();
+
+            services.AddTransient<OperacaoService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
