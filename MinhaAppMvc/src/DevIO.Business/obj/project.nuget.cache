@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u1E42PsEpJCdhFBfAU1PdXYY5yXzcclEiqkgQu7VWIF3WGXUnKlPh4WmMvSR2E7g67LoJqxwVfFO8A0lqWp0rQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\dominando-asp-net-core\\MinhaAppMvc\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jvito\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

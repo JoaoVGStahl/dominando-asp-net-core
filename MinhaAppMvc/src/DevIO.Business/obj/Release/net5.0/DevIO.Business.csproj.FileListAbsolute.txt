@@ -1,0 +1,12 @@
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\bin\Release\net5.0\DevIO.Business.deps.json
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\bin\Release\net5.0\DevIO.Business.dll
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\bin\Release\net5.0\ref\DevIO.Business.dll
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\bin\Release\net5.0\DevIO.Business.pdb
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\obj\Release\net5.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\obj\Release\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\obj\Release\net5.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\obj\Release\net5.0\DevIO.Business.AssemblyInfo.cs
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\obj\Release\net5.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\obj\Release\net5.0\DevIO.Business.dll
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\obj\Release\net5.0\ref\DevIO.Business.dll
+C:\dev\dominando-asp-net-core\MinhaAppMvc\src\DevIO.Business\obj\Release\net5.0\DevIO.Business.pdb
